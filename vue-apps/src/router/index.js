@@ -1,12 +1,14 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import MyModule from '../views/MyModule.vue'
+import chart from '../views/chart.vue'
+import helloWorld from '../views/helloWorld.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
- { path: '/mymodule', name: 'mymodule', component: MyModule },
+ { path: '/helloworld', name: 'helloworld', component: helloWorld },
+ { path: '/chart', name: 'chart', component: chart },
  {
     path: '/',
     name: 'Home',
