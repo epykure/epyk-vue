@@ -15,9 +15,11 @@ This can also be an opportunity to share the UI implementation between JavaScrip
 
 Lot of components are already available in Epyk but feel free to bring news ideas !
 
-The architecture of this kind of set up the as below:
+The architecture of this kind of set up the as presented below:
 
-
+<div align="center" >
+    <img width=500 src="https://github.com/epykure/epyk-vue/blob/master/static/images/design.PNG?raw=true">
+</div>
 
 Quickstart
 ================================
