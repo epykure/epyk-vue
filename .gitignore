@@ -49,3 +49,4 @@ dist/*
 build/*
 *egg-info*
 vue-apps/src/views/*.vue
+*.vue
