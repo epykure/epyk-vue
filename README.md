@@ -21,6 +21,13 @@ The architecture of this kind of set up the as presented below:
     <img width=500 src="https://github.com/epykure/epyk-vue/blob/master/static/images/design.PNG?raw=true">
 </div>
 
+
+It is similar to the set up for other popular web framework like:
+
+- [React](https://github.com/epykure/epyk-react): In Progress
+- [Angular](https://github.com/epykure/epyk-angular): In Progress
+
+
 Quickstart
 ================================
 
@@ -90,6 +97,8 @@ Compatibility
 ================================
 
 This has been tested on Vue2.
+
+You can get more examples on the common templates [repository](https://github.com/epykure/epyk-templates/tree/master/web/vue)
 
 More examples of reports are available on Github or in [Jupyter](https://nbviewer.jupyter.org/github/epykure/epyk-templates-notebooks/blob/master/index.ipynb)
 
