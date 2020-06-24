@@ -10,7 +10,6 @@
 *.bat
 *.xml
 *.iml
-*.vue
 
 # Packages #
 ############
@@ -49,3 +48,4 @@ outs/*
 dist/*
 build/*
 *egg-info*
+vue-apps/src/views/*.vue
